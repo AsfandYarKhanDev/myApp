@@ -4,8 +4,8 @@ import Icon from 'react-native-vector-icons/Ionicons';
 const App = () => {
   return (
     <View>
-      <Text>App</Text>
-      <Icon name="bicycle-outline" size={80} />
+      <Text>Asfandyar</Text>
+      <Icon name="eyedrop" size={80} />
     </View>
   );
 };
